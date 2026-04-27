@@ -25,7 +25,7 @@ From the data above, one can determine that a large portion of people currently 
 The first visualization above is a histogram for measures of interest in class material, overlayed with ratings for interest in across disciplines. The legend depicts ligher colors as representing lower ratings for interest in connections, and darker colors as representing higher ratings for interest in connections. The histogram indicates that higher ratings for class interest are associated with higher ratings in interest for connections across disciplines. The following two visualizations show the relationship between interest in class material and interest in connections (and vice versa). These relplots indicate that their is linear relationship between both variables.
 
 ## Figure 5 
-<img src ="static/imgs/boxplot_1.png" alt = "image 5" width = "500">
+<img src = "static/imgs/boxplot_1.png" alt = "image 5" width = "500">
 
 The boxplot above indicates that median responses for level of recommendation according to interest in class material. Median levels of recommendation increase as interest in class material increases. 
 
