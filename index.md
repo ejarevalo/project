@@ -25,17 +25,17 @@ From the data above, one can determine that a large portion of people currently 
 The first visualization above is a histogram for measures of interest in class material, overlayed with ratings for interest in across disciplines. The legend depicts ligher colors as representing lower ratings for interest in connections, and darker colors as representing higher ratings for interest in connections. The histogram indicates that higher ratings for class interest are associated with higher ratings in interest for connections across disciplines. The following two visualizations show the relationship between interest in class material and interest in connections (and vice versa). These relplots indicate that their is linear relationship between both variables.
 
 ## Figure 5 
-<img src ="static/imgs/boxplot_1.png" alt = "image 5" width="500">
+<img src ="static/imgs/boxplot_1.png" alt = "image 5" width = "500">
 
 The boxplot above indicates that median responses for level of recommendation according to interest in class material. Median levels of recommendation increase as interest in class material increases. 
 
 ## Figure 6
-<img src="static/imgs/boxplot_2.png" alt = "image 6", width = "500">
+<img src= "static/imgs/boxplot_2.png" alt = "image 6" width = "500">
 
 The boxplot above shows interest in class material according to whether or not the student is a computer science major. This boxplot shows that while median ratings of interest in class interest are similar across major groups, there also exists much greater variability for students that are not computer science majors. This indicates an area of improvement, where reducing variability in favor of higher interest in class material would increase mean ratings for COMP 110 from non-cs majors. 
 
 ## Figure 7 
-<img src="static/imgs/boxplot_3png.png" alt = "image 7" witdth ="500">
+<img src= "static/imgs/boxplot_3png.png" alt = "image 7" witdth = "500">
 
 The boxplot above shows level of recommendation according to major group, with lower median rating for level of recommendation among non-cs majors and higher variability. Computer science majors have a higher level of recommendation and with less variability. This indicates that non-cs majors tend to recommend COMP 110 less than cs-majors/minors. Increasing median level of recommendation and/or decreasing variability (in favor of recommending COMP 110) is an area of improvement. 
 
